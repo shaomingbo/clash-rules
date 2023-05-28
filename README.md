@@ -1,0 +1,1 @@
+- OPENAI [策略参考](https://github.com/v2fly/domain-list-community/blob/master/data/openai)
