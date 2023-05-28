@@ -7,3 +7,5 @@ payload:
   - 'openaicomproductionae4b.blob.core.windows.net'
   - 'production-openaicom-storage.azureedge.net'
   - 'openaicom.imgix.net'
+  - 'bard.google.com'
+  - 'bing.com'
