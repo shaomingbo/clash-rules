@@ -4,3 +4,4 @@ DOMAIN-SUFFIX,events.data.microsoft.com,PROXY
 DOMAIN-SUFFIX,browser.pipe.aria.microsoft.com,PROXY
 DOMAIN-SUFFIX,mobile.pipe.aria.microsoft.com,PROXY
 DOMAIN-SUFFIX,gateway.messenger.live.com,PROXY
+DOMAIN-SUFFIX,graph.microsoft.com,PROXY
