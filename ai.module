@@ -6,3 +6,5 @@ DOMAIN-SUFFIX,mobile.pipe.aria.microsoft.com,PROXY
 DOMAIN-SUFFIX,gateway.messenger.live.com,PROXY
 DOMAIN-SUFFIX,graph.microsoft.com,PROXY
 DOMAIN-SUFFIX,location.microsoft.com,PROXY
+DOMAIN-SUFFIX,cn.bing.com,PROXY
+DOMAIN-SUFFIX,prod.rewardsplatform.microsoft.com,PROXY
