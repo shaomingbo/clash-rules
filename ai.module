@@ -1,6 +1,6 @@
 #!name=ai_proxy_list
 [Rule]
-DOMAIN-SUFFIX,ic3.events.data.microsoft.com,PROXY
+DOMAIN-SUFFIX,events.data.microsoft.com,PROXY
 DOMAIN-SUFFIX,browser.pipe.aria.microsoft.com,PROXY
-DOMAIN-SUFFIX,azwus2-client-s.gateway.messenger.live.com,PROXY
-DOMAIN-SUFFIX,azwus2-client-s.gateway.messenger.live.com,PROXY
+DOMAIN-SUFFIX,mobile.pipe.aria.microsoft.com,PROXY
+DOMAIN-SUFFIX,gateway.messenger.live.com,PROXY
